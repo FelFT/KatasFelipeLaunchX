@@ -1,7 +1,7 @@
 # KatasFelipeLaunchX
 Este es un repositorio con las katas resueltas de la primera misión, el Onboarding de LaunchX 🚀
 
-## Proceso de entrega del Onboarding ☑️
+## ☑️ Proceso de entrega del Onboarding 
 
 |Tema|Kata|
 |--------|--------|
